@@ -25,7 +25,7 @@ Note that YOU are responsible to know how to use compilers and C++, the hints be
 All Platforms:
 
 - TreeSheets requires wxWidgets 3.1 or better.
-  Preferrably the last public release, or bleeding edge from https://github.com/wxWidgets/wxWidgets.git if you're
+  Preferably the last public release, or bleeding edge from https://github.com/wxWidgets/wxWidgets.git if you're
   adventurous.
 
 Windows:
@@ -82,4 +82,4 @@ interface elements (even menu items) have a cost, and features that are only use
 probably not be in the master branch. Needless to say, performance is important too. When in doubt, ask me :)
 
 Try to keep your pull requests small (don't bundle unrelated changes) and make sure you've done extensive testing
-before you submit, preferrably on multiple platforms.
+before you submit, preferably on multiple platforms.
